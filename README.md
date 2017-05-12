@@ -1,1 +1,1 @@
-# threadsExemple
+Simple example of multithreading
